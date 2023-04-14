@@ -1,0 +1,13 @@
+name: Pick-Them-All
+version: 1.0.0
+main: fr.en0ri4n.pickthemall.PickThemAll
+api-version: 1.19
+authors: [En0ri4n]
+commands:
+  start:
+    description: Start the game
+    usage: /start
+    permission: pickthemall.start
+  top:
+    description: Teleport to the top of the map
+    usage: /top

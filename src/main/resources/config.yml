@@ -1,0 +1,23 @@
+#########################################
+#                                       #
+#         Pick-Them-All Spigot          #
+#               By En0ri4n              #
+#                                       #
+#########################################
+
+# True if it's a BungeeCord related server
+bungee_server: false
+
+# Fallback server when the game ends (BungeeCord)
+fallback_server: lobby
+
+# Players needed to start the game
+minimum_players: 2
+
+# Auto start when there are enough players
+auto_start: false
+
+# Range of random of game duration (in minutes)
+game_duration:
+  - 10
+  - 30
